@@ -1,0 +1,32 @@
+/* Apply styles using class selectors */
+.main-title {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Style an image */
+.styled-image {
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Use an ID selector */
+#info-box {
+    color: brown;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Add margin, padding, and typography */
+.description {
+    font-size: 18px;
+    margin: 15px;
+    padding: 10px;
+    line-height: 1.5;
+}
